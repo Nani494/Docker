@@ -10,8 +10,8 @@
        Now run mysql command in container to access created database
           'mysql -uroot -p'   - u for user and -p for password, it will promt for password enter password as test123
           
-       Now check databses
-          'show databses;'
+       Now check databases
+          'show databases;'
           
        Create a Database
           'create database <database_name>;'
